@@ -1,0 +1,6 @@
+{
+    "require": {
+        "raveren/kint": "^1.0",
+        "zadarma/user-api-v1": "^1.0"
+    }
+}
